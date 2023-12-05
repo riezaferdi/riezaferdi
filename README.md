@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Voice AI Generator using Genshin Impact characters
+
 🌱 I’m currently learning on StackUp and below my profile and achievements
 ![s](https://github.com/riezaferdi/riezaferdi/assets/48113419/b663aab5-d7a0-4212-acee-db69b3ccb3a5)
 
