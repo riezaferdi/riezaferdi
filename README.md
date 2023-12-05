@@ -7,7 +7,7 @@
 
 📫 How to reach me: send email to zaferdi.27.341@gmail.com
 
-###Thank You
+### Thank You 👋
 
 <!--
 **riezaferdi/riezaferdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
