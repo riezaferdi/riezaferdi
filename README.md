@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Voice AI Generator using Genshin Impact characters
+🌱 I’m currently learning on StackUp and below my profile and achievments
+![s](https://github.com/riezaferdi/riezaferdi/assets/48113419/b663aab5-d7a0-4212-acee-db69b3ccb3a5)
+
+📫 How to reach me: send email to zaferdi.27.341@gmail.com
+
+###Thank You
+
 <!--
 **riezaferdi/riezaferdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
